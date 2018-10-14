@@ -1,4 +1,4 @@
 # runjiefotoid
 
 My site is published at:
- https://j4502-fs18.github.io/runjiewang/
+ https://rodericwang.github.io/runjiewang/
